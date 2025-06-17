@@ -12,7 +12,7 @@ This artifact was selected and enhanced to demonstrate my proficiency in:
 - **Algorithms & Data Structures**
 - **Databases**
 
-> [Github Repository] (https://github.com/jvil-dev/EventForce)
+**[View the Project on GitHub](https://github.com/jvil-dev/EventForce)
 
 ---
 
@@ -31,9 +31,9 @@ This artifact was selected and enhanced to demonstrate my proficiency in:
 - **Enhancement Summary:**  
   Ported the Android version of EventForce to iOS using Swift and SwiftUI. Re-architected the UI and model layers to align with iOS development practices and integrated Firebase Authentication and Firestore.
 
-- **Branch:** [`catergory-1-software-design-and-engineering`](https://github.com/jvil-dev/EventForce/tree/catergory-1-software-design-and-engineering)
+- **Branch:** [`category-1-software-design-and-engineering`](https://github.com/jvil-dev/EventForce/tree/category-1-software-design-and-engineering)
 
-- **Narrative:** [View README Narrative](https://github.com/jvil-dev/EventForce/blob/catergory-1-software-design-and-engineering/README.md)
+- **Narrative:** [View README Narrative](https://github.com/jvil-dev/EventForce/blob/category-1-software-design-and-engineering/README.md)
 
 ---
 
@@ -42,9 +42,9 @@ This artifact was selected and enhanced to demonstrate my proficiency in:
 - **Enhancement Summary:**  
   Added keyword-based event filtering, improved performance by linking events to selected user profiles, and optimized state management in Swift to handle UI responsiveness and data flow.
 
-- **Branch:** [`catergory-2-algorithms-datastructures`](https://github.com/jvil-dev/EventForce/tree/catergory-2-algorithms-datastructures)
+- **Branch:** [`category-2-algorithms-datastructures`](https://github.com/jvil-dev/EventForce/tree/category-2-algorithms-datastructures)
 
-- **Narrative:** [View README Narrative](https://github.com/jvil-dev/EventForce/blob/catergory-2-algorithms-datastructures/README.md)
+- **Narrative:** [View README Narrative](https://github.com/jvil-dev/EventForce/blob/category-2-algorithms-datastructures/README.md)
 
 ---
 
