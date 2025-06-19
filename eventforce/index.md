@@ -12,7 +12,13 @@ This artifact was selected and enhanced to demonstrate my proficiency in:
 - **Algorithms & Data Structures**
 - **Databases**
 
-**[View the Project on GitHub](https://github.com/jvil-dev/EventForce)
+[View the Project on GitHub](https://github.com/jvil-dev/EventForce)
+
+---
+
+## Informal Code Review
+
+[View my Informal Code Review where I outline my plan for enhancing the original EventForce Android app into an iOS app](https://youtu.be/wyQw4YrpVR8)
 
 ---
 
