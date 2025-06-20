@@ -17,7 +17,8 @@ This capstone, and my program as a whole, has prepared me to enter the computer 
 
 * **Collaboration and Communication:** Throughout my academic career, I have learned that collaborating within a team and communicating effectively with stakeholders are as important as any technical skill. Documenting my enhancement plan, producing a code review video, and writing detailed narratives have honed my ability to articulate complex technical concepts to both technical and non-technical audiences.
 
-* **Introduction to _EventForce_:** The skills I have outlined are best demonstrated through practical application. To that end, the technical portion of this portfolio is presented as a single, comprehensive case study: the enhancement of the EventForce application. By re-engineering this one project across three distinct categories—software design, algorithms, and databases—I was able to tell a cohesive story of modernizing a legacy Android application into a secure and robust iOS platform. The following project page provides tangible evidence of my skills, represents the culmination of my academic learning, and showcases my readiness to contribute to the software development field.
+**Introduction to _EventForce_:** The skills I have outlined are best demonstrated through practical application. To that end, the technical portion of this portfolio is presented as a single, comprehensive case study: the enhancement of the EventForce application. By re-engineering this one project across three distinct categories—software design, algorithms, and databases—I was able to tell a cohesive story of modernizing a legacy Android application into a secure and robust iOS platform. The following project page provides tangible evidence of my skills, represents the culmination of my academic learning, and showcases my readiness to contribute to the software development field.
+
 ---
 
 ## Projects & Profiles
